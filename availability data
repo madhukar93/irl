@@ -1,0 +1,9 @@
+array(6) { [0]=> array(4) { [0]=> string(2) " 1" [1]=> string(10) " 5-11-2014" [2]=> string(13) "GNWL315/WL197" [3]=> string(12) "GNWL123/WL50" } 
+		   [2]=> array(4) { [0]=> string(2) " 2" [1]=> string(10) " 6-11-2014" [2]=> string(13) "GNWL271/WL151" [3]=> string(11) "GNWL72/WL36" } 
+		   [4]=> array(4) { [0]=> string(2) " 3" [1]=> string(10) " 7-11-2014" [2]=> string(13) "GNWL440/WL367" [3]=> string(11) "GNWL73/WL31" } 
+		   [6]=> array(4) { [0]=> string(2) " 4" [1]=> string(10) " 8-11-2014" [2]=> string(13) "GNWL337/WL196" [3]=> string(12) "GNWL115/WL62" } 
+		   [8]=> array(4) { [0]=> string(2) " 5" [1]=> string(10) " 9-11-2014" [2]=> string(13) "GNWL195/WL101" [3]=> string(11) "GNWL68/WL35" }
+		    [10]=> array(4) { [0]=> string(2) " 6" [1]=> string(10) "10-11-2014" [2]=> string(13) "GNWL223/WL194" [3]=> string(11) "GNWL42/WL19" }}
+
+
+		   
